@@ -1,0 +1,12 @@
+streamlit
+openai-whisper
+transformers
+torch
+sentence-transformers
+spacy
+nltk
+bertopic
+scikit-learn
+moviepy
+pydub
+mlflow
